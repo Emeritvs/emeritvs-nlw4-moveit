@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="LearnIn" title="Learnin" src=".github/logo.svg" />
+    <img alt="Moveit" title="Moveit" src=".github/logo.svg" />
 </h1>
 
 <p align="center">
@@ -13,39 +13,34 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/learnin.png" width="100%">
+  <img alt="Moveit" src=".github/learnin.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Firebase](https://nodejs.org/en/)
-- [Angular](https://angular.io)
-- [Capacitor](https://capacitorjs.com)
-- [Ionic](https://ionicframework.com)
+- [React](https://nodejs.org/en/)
+- [NextJS](https://angular.io)
 - [TypeScript](https://www.typescriptlang.org/)
+- [TailwindCSS](https://capacitorjs.com)
 
 ## 💻 Projeto
-O Learnin é uma plataforma onde realiza a conexão entre alunos e docentes no processo de envio de atividades, materiais de estudo e dúvidas.💜
-A ideia do projeto foi desenvolver uma aplicação web que seja armazenada em algum dos serviços de nuvem disponíveis atualmente, o escolhido foi o Firebase.
-- [Versão Web Funcional](https://projeto-sdv.web.app)
-- [Versão App] Para testar a versão app (PWA) do site, será necessário executar os passos do tópico <a href="#-instalação">Instalação</a>.
+O Moveit e um projeto desenvolvido pela equipe da Rocketseat durante o evento Next Level Week 4 para a trilha de React, a aplicacao consiste no sistema de pomodoro, onde a cada 25 cronometrados na aplicacao sao exibidos desafios de atividades fisicas para o usuario executar, ao confirmar a execucao do desafio o usuario recebe pontos de experiencia, durante o cumprimento de desafios a progressao de nivel vai aumentando gradualmente.
+
+- [Versão Web Funcional](https://moveit-iota-ten.vercel.app)
 
 ## 🔖 Instalação
 
 Para executar o projeto em sua máquina/dispostivo, serão necessários os seguintes recursos instalados:
 
-- [Layout Web](Em breve)
-- [Layout Web](Em breve) 
-- [Layout Mobile](Em breve) 
+- 
 
 ## 🔖 Layout
 
 Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-- [Layout Web](Em breve)
-- [Layout Mobile](Em breve)
+- [Layout Web](https://www.figma.com/file/z3xIk0VmDyYsZXvwZqyodD/Move.it-2.0-Copy?node-id=160%3A2761)
 
 
 ## :memo: Licença
@@ -54,4 +49,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Projeto feito por Guilherme Gomes (Emeritvs) para a matéria de Redes e Sistemas Distribuídos durante a faculdade de Ciência da Computação :wave:
+Projeto desenvolvido por Guilherme Gomes (Emeritvs) e feito pela Rocketseat durante o evento Next Level Week 4 :wave:
